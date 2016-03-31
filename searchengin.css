@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#3C9;
+	background-image:url(StaindGlass.jpg);
+}
+.content
+{
+	margin-top:200px;
+	font-size:36px;
+	font-family:"MS Serif", "New York", serif;
+	font-style:italic;
+	
+}
+.headpart
+{   font-size:24pxpx;
+	margin-top:150px;
+	font-style:italic;
+	text-decoration:underline;
+	color:#333;
+}
+.urlpart
+{ 
+
+}
+.discriptionpart
+{
+	font-style:italic;
+	color:#333;
+}
